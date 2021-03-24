@@ -10,10 +10,8 @@ This tutorial explains the difference between some industry standard CAD tools a
 *   Create an OnShape Account
 *   What is a Part vs Assembly
 
-
 ## Estimated Time
 30 minutes
-
 
 ## Why CAD?
 Using Computer Aided Design (CAD) software for FRC Teams is essential to planning robot designs and ensuring a successful build season.
@@ -30,8 +28,6 @@ Using Computer Aided Design (CAD) software for FRC Teams is essential to plannin
 
 Depending on your FRC team, you may have the option of choosing which CAD tool is used. Many teams are fluent in Solidworks, Fusion360, etc and prefer to stick with these tools. If your team is new or looking for a switch, these OnShape bootcamps are for you! At a high level, OnShape provides some advantages over other CAD tools:
 
-
-
 *   **MKCAD:** The biggest advantage to using OnShape for FRC is the MKCAD Library. Students can save time using the MKCAD library that includes popular FRC parts. Details for how to use the library of parts is included in this OnShape bootcamp series.
 *   **No software install:** Students don’t need to download and install software onto computers, manage licenses, or deal with software updates. OnShape is completely in the browser and supported by major operating systems.
 *   **System Performance:** Because OnShape is a hosted CAD platform, many of the calculations are performed on OnShape servers. This means that students can use lower grade computers that are available and reduce the purchasing cost of computers by the school/team.
@@ -43,20 +39,17 @@ Depending on your FRC team, you may have the option of choosing which CAD tool i
     *   **Analytics:** The analytics tools allow administrators to see student activity and time spent working on documents.
 
 ## Preparation Steps
-
 All tutorials in the onshape bootcamps will expect that you have created OnShape account and access to a computer.
 
 1. Check system performance
+It is recommended to use a laptop or desktop computer when using OnShape. If available, use a mouse instead of a trackpad. Check your device performance at[ https://cad.onshape.com/check](https://cad.onshape.com/check).
 
-    It is recommended to use a laptop or desktop computer when using OnShape. If available, use a mouse instead of a trackpad. Check your device performance at[ https://cad.onshape.com/check](https://cad.onshape.com/check).
+Wait until the tests have run and the “Performance check” returns results.
 
-    Wait until the tests have run and the “Performance check” returns results.
-
-    If the test results are poor, try to use a different device, if possible. Even if this website gives you bad results, try to do the exercise anyways and see if you can get it to work.
+If the test results are poor, try to use a different device, if possible. Even if this website gives you bad results, try to do the exercise anyways and see if you can get it to work.
 
 2. Create an Account and Login to OnShape
-
-    There are several ways to create an OnShape Account.
+There are several ways to create an OnShape Account.
 
 *   Check with your team if your school has OnShape Education Enterprise. If so you should get access to from your school/team. Login with the provided credentials or your Single SignOn Account. You will always login with your enterprise domain page like [http://myschool.onshape.com](http://myschool.onshape.com) for enterprise accounts.
 *   Create a free education account at [https://www.onshape.com/en/education/](https://www.onshape.com/en/education/) using your school email address. Login at [https://cad.onshape.com/](https://cad.onshape.com/)
@@ -115,6 +108,6 @@ The triad manipulator can be used to freeform move or enter precise distances to
 ![alt_text](images/image5.png "image_tooltip")
 ![alt_text](images/image6.png "image_tooltip")
 
-8. Be patient
+### Be patient
 
 If you are new to 3d modeling and CAD tools, or switching from a different tool, be patient! Learning a new skill takes time, mistakes will be made, and you’ll find that your skills grow over time. It will be easier to design during the build season if you practice and learn ahead of time.
