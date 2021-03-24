@@ -41,14 +41,14 @@ Depending on your FRC team, you may have the option of choosing which CAD tool i
 ## Preparation Steps
 All tutorials in the onshape bootcamps will expect that you have created an OnShape account and have access to a computer.
 
-1. Check system performance
-   It is recommended to use a laptop or desktop computer when using OnShape. If available, use a mouse instead of a trackpad. Check your device performance at[ https://cad.onshape.com/check](https://cad.onshape.com/check).
+### Check system performance
+It is recommended to use a laptop or desktop computer when using OnShape. If available, use a mouse instead of a trackpad. Check your device performance at[ https://cad.onshape.com/check](https://cad.onshape.com/check).
 
-   Wait until the tests have run and the “Performance check” returns results.
+Wait until the tests have run and the “Performance check” returns results.
 
-   If the test results are poor, try to use a different device, if possible. Even if this website gives you bad results, try to do the exercise anyways and see if you can get it to work.
+If the test results are poor, try to use a different device, if possible. Even if this website gives you bad results, try to do the exercise anyways and see if you can get it to work.
 
-2. Create an Account and Login to OnShape
+### Create an Account and Login to OnShape
 There are several ways to create an OnShape Account.
 
 *   Check with your team if your school has OnShape Education Enterprise. If so you should get access to from your school/team. Login with the provided credentials or your Single SignOn Account. You will always login with your enterprise domain page like [http://myschool.onshape.com](http://myschool.onshape.com) for enterprise accounts.
