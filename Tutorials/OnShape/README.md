@@ -12,8 +12,8 @@ At the end of this tutorial you will have built a robot with a ramp support stru
 # Tutorials
 ## OnShape Bootcamp A: Part Creation
 - [Part 1 - Intro to OnShape](Bootcamp-A/Part-1/README.md)
-- Part 2 - Using Sketch and Extrude to Create a Part
-- Part 3 - Customizing an FRC Part
+- [Part 2 - Using Sketch and Extrude to Create a Part](Bootcamp-A/Part-2/README.md)
+- [Part 3 - Customizing an FRC Part](Bootcamp-A/Part-3/README.md)
 - Part 4 - Creating Custom Tubes, Belts, and Chain
 - Part 5 - Creating a Robot Signal Light (RSL) Mount
 
