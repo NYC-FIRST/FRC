@@ -71,14 +71,14 @@ In OnShape there are two main types of objects that you will work with. Parts an
 
 It’s important to know all of the ways to move around the 3d space when viewing a part/assembly. The controls sometimes vary between using a Window or Mac computer, and are all described in [Onshape documentation](https://cad.onshape.com/help/Content/moving.htm?tocpath=Welcome%20to%20Onshape%20Help%7CUser%20Interface%20Basics%7C_____2). The most useful view control is the View Cube, which allows moving to different sides of the 3d model with a single click.
 
-![alt_text](images/image1.png "image_tooltip")
+![](images/image1.png "view cube")
 
 
 ### Sharing
 
 You can share documents with others for viewing and collaboration across your team. Use the share button at the top right of the screen to share any document. This [Onshape Documentation](https://cad.onshape.com/help/Content/sharedocuments.htm?tocpath=Sharing%20and%20Collaboration%7C_____1) explains in detail all of the sharing and collaboration features that exist.
 
-![alt_text](images/image4.png "image_tooltip")
+![](images/image2.png "sharing modal")
 
 ### Document Versioning & Branching
 
@@ -100,13 +100,13 @@ You can move parts in an assembly anywhere in the XYZ space. The “Triad Manipu
 
 To get more familiar with this tool,  read this OnShape documentation if you are unfamiliar with how the tool works [https://cad.onshape.com/help/Content/triad.htm](https://cad.onshape.com/help/Content/triad.htm).
 
-![alt_text](images/image3.png "image_tooltip")
-![alt_text](images/image2.png "image_tooltip")
+![](images/image3.png "Triad Manipulator")
+![](images/image4.png "right click options")
 
 The triad manipulator can be used to freeform move or enter precise distances to move or rotate parts. You can move the part in any direction by left clicking and dragging any of the controls on the triad manipulator. To enter a precise measurement, type into the textbox that appears. Press enter to save the movement after typing it.
 
-![alt_text](images/image5.png "image_tooltip")
-![alt_text](images/image6.png "image_tooltip")
+![](images/image5.png "manually move")
+![](images/image6.png "type to enter measurement")
 
 ### Be patient
 
