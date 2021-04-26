@@ -27,6 +27,8 @@
 ## FRC Electronics Circuit Simulator
 Using the knowledge learned about wiring FRC electrical and pneumatic components, digitally assemble all electronics components using the TKO Electronics Simulator. As announced on [Chief Delphi](https://www.chiefdelphi.com/t/frc-electronics-circuit-simulator-for-electronics-diagramming-and-training/389622), this tool wasa created by members of FRC Team TKO 1351. Shout out to 1351's members of TKO Programming: Rohan Bansal and Andy Li.
 
+First, install the program by following the instructions listed on GitHub: https://github.com/MittyRobotics/tko-electronics-sim#installation
+
 For this challenge, add the following parts and assemble them with the correctly colored and gauged wires, pneumatics tubing, and ethernet cables:
 1. 1x Battery and Main Breaker Switch
 1. 1x PDP, PCM, and VRM
