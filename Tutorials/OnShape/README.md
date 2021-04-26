@@ -18,7 +18,7 @@ At the end of this tutorial you will have built a robot with a ramp support stru
 - [Part 5 - Creating a Robot Signal Light (RSL) Mount](Bootcamp-A/Part-5/README.md)
 
 ## OnShape Bootcamp B: Robotic Assemblies
-- Part 1 - Using MKCAD
-- Part 2 - Create a Chassis & Support Assembly
-- Part 3 - Intake Roller Assembly and Animations
-- Part 4 - Ramp Assembly
+- [Part 1 - Using MKCAD](Bootcamp-B/Part-1/README.md)
+- [Part 2 - Create a Chassis & Support Assembly](Bootcamp-B/Part-2/README.md)
+- [Part 3 - Intake Roller Assembly and Animations](Bootcamp-B/Part-3/README.md)
+- [Part 4 - Ramp Assembly](Bootcamp-B/Part-4/README.md)
