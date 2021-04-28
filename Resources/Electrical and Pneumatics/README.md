@@ -1,4 +1,4 @@
-# Electrial and Pneumatic Resources
+# Electrical and Pneumatic Resources
 
 ## General Electrical Resources
 1. Watch video on how Circuits and Motors Work: https://www.youtube.com/watch?v=CWulQ1ZSE3c 
